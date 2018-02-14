@@ -48,7 +48,7 @@
         android:text="@string/next_level" />
 
     <ImageButton
-        android:id="@+id/imageMakeSentence_button"
+        android:id="@+id/imageGoToMakeSentenceScene_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="50dp"
